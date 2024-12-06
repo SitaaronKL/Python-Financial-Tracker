@@ -1,4 +1,38 @@
 date,amount,category,description
-20-07-2024,125.65,Income,Salary
-05-12-2024,125.0,Income,Finance Gig
-31-12-2005,100000.0,Income,Birthday
+15-01-2023,250.75,Income,Freelance Project
+22-02-2023,45.00,Expense,Groceries
+10-03-2023,300.00,Income,Consulting Fee
+04-04-2023,120.00,Expense,Restaurant
+18-05-2023,150.50,Income,Bonus
+12-06-2023,80.00,Expense,Transportation
+25-07-2023,400.00,Income,Part-time Job
+09-08-2023,50.25,Expense,Utilities
+14-09-2023,600.00,Income,Freelance Design
+30-10-2023,90.00,Expense,Internet Bill
+11-11-2023,75.00,Expense,Entertainment
+05-12-2023,200.00,Income,Side Hustle
+28-01-2024,120.00,Expense,Groceries
+19-02-2024,350.00,Income,Contract Work
+08-03-2024,60.00,Expense,Gas
+27-04-2024,500.00,Income,Salary
+06-05-2024,100.00,Expense,Shopping
+21-06-2024,220.00,Income,Freelance Writing
+03-07-2024,75.50,Expense,Coffee
+15-08-2024,400.00,Income,Commission
+23-09-2024,50.00,Expense,Subscription
+12-10-2024,700.00,Income,Freelance Project
+02-11-2024,125.00,Expense,Restaurant
+16-12-2024,900.00,Income,Year-end Bonus
+07-01-2025,40.00,Expense,Parking
+28-02-2025,150.00,Income,Freelance Job
+14-03-2025,65.00,Expense,Groceries
+25-04-2025,480.00,Income,Photography Session
+09-05-2025,85.00,Expense,Utilities
+20-06-2025,250.00,Income,Consulting Gig
+03-07-2025,110.00,Expense,Medical
+15-08-2025,300.00,Income,Freelance Writing
+21-09-2025,75.00,Expense,Internet Bill
+30-10-2025,600.00,Income,Part-time Work
+05-11-2025,90.00,Expense,Restaurant
+12-12-2025,150.00,Income,Gift
+
